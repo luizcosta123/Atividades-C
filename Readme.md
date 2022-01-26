@@ -1,0 +1,1 @@
+Este repositório tem o intuito de deixar registrado minhas atividades em C realizadas na graduação.
